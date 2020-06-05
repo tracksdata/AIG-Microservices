@@ -1730,3 +1730,305 @@
 2020-06-04 15:42:40,184 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-06-04 15:42:40,187 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-06-04 15:42:40,187 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/praveen/Training/Cognizant/AIG-Microservices/Spring-boot-ws/10-Boot-RestApp/src/test/resources
+2020-06-05 14:39:33,586 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-06-05 14:44:41,101 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-05 14:44:41,108 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-05 14:44:41,127 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-05 14:44:41,132 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-05 14:44:41,132 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/praveen/Training/Cognizant/AIG-Microservices/Spring-boot-ws/10-Boot-RestApp/src/test/resources
+2020-06-05 14:44:49,155 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-05 14:44:49,162 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-05 14:44:49,165 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-05 14:44:49,169 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-05 14:44:49,169 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/praveen/Training/Cognizant/AIG-Microservices/Spring-boot-ws/10-Boot-RestApp/src/test/resources
+2020-06-05 14:45:28,531 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-06-05 14:45:56,245 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-05 14:45:56,251 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-05 14:45:56,268 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-05 14:45:56,271 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-05 14:45:56,271 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/praveen/Training/Cognizant/AIG-Microservices/Spring-boot-ws/10-Boot-RestApp/src/test/resources
+2020-06-05 14:48:58,563 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-05 14:48:58,567 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-05 14:48:58,569 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-05 14:48:58,572 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-05 14:48:58,573 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/praveen/Training/Cognizant/AIG-Microservices/Spring-boot-ws/10-Boot-RestApp/src/test/resources
+2020-06-05 14:52:42,924 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-05 14:52:42,925 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-05 14:52:42,926 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-05 14:52:42,930 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-05 14:52:42,930 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/praveen/Training/Cognizant/AIG-Microservices/Spring-boot-ws/10-Boot-RestApp/src/test/resources
+2020-06-05 14:58:36,669 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-05 14:58:36,670 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-05 14:58:36,672 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-05 14:58:36,674 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-05 14:58:36,675 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/praveen/Training/Cognizant/AIG-Microservices/Spring-boot-ws/10-Boot-RestApp/src/test/resources
+2020-06-05 15:06:42,737 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-05 15:06:42,738 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-05 15:06:42,739 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-05 15:06:42,741 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-05 15:06:42,741 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/praveen/Training/Cognizant/AIG-Microservices/Spring-boot-ws/10-Boot-RestApp/src/test/resources
+2020-06-05 15:29:43,326 [Worker-20: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cts:10-Boot-RestApp:1 @ /Users/praveen/Training/Cognizant/AIG-Microservices/Spring-boot-ws/10-Boot-RestApp/pom.xml.
+2020-06-05 15:29:43,912 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-05 15:29:43,916 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-05 15:29:43,916 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-05 15:29:43,921 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-05 15:29:43,921 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/praveen/Training/Cognizant/AIG-Microservices/Spring-boot-ws/10-Boot-RestApp/src/test/resources
+2020-06-05 15:30:15,904 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-06-05 15:30:34,668 [Worker-19: Launching 10-Boot-RestApp] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/praveen/Training/Cognizant/AIG-Microservices/Spring-boot-ws/10-Boot-RestApp
+2020-06-05 15:30:34,669 [Worker-19: Launching 10-Boot-RestApp] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B -Dmaven.test.skip=true -DskipTests package -Dstyle.color=always
+2020-06-05 15:31:49,580 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-05 15:31:49,581 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-05 15:31:49,595 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-05 15:31:49,597 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-05 15:31:49,597 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/praveen/Training/Cognizant/AIG-Microservices/Spring-boot-ws/10-Boot-RestApp/src/test/resources
+2020-06-05 15:38:36,393 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cts:11-Product-Catalogue-Service:1 @ /Users/praveen/Training/Cognizant/AIG-Microservices/Spring-boot-ws/11-Product-Catalogue-Service/pom.xml.
+2020-06-05 15:38:36,841 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /11-Product-Catalogue-Service/src/main/java
+2020-06-05 15:38:36,842 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /11-Product-Catalogue-Service/src/main/resources
+2020-06-05 15:38:36,846 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /11-Product-Catalogue-Service/src/main/resources
+2020-06-05 15:38:36,856 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /11-Product-Catalogue-Service/src/test/java
+2020-06-05 15:38:37,120 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2020-06-05 15:38:37,124 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-06-05 15:38:37,465 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cts:11-Product-Catalogue-Service:1 @ /Users/praveen/Training/Cognizant/AIG-Microservices/Spring-boot-ws/11-Product-Catalogue-Service/pom.xml.
+2020-06-05 15:38:37,923 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /11-Product-Catalogue-Service/src/main/java
+2020-06-05 15:38:37,923 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /11-Product-Catalogue-Service/src/main/resources
+2020-06-05 15:38:37,926 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /11-Product-Catalogue-Service/src/main/resources
+2020-06-05 15:38:37,930 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /11-Product-Catalogue-Service/src/test/java
+2020-06-05 15:38:38,081 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-06-05 15:38:38,802 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-05 15:38:38,803 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-05 15:38:38,805 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-05 15:38:38,811 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-05 15:38:38,811 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/praveen/Training/Cognizant/AIG-Microservices/Spring-boot-ws/11-Product-Catalogue-Service/src/test/resources
+2020-06-05 15:39:37,523 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cts:12-Product-Cart-Service:1 @ /Users/praveen/Training/Cognizant/AIG-Microservices/Spring-boot-ws/12-Product-Cart-Service/pom.xml.
+2020-06-05 15:39:39,160 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-redis/2.3.0.RELEASE/spring-boot-starter-data-redis-2.3.0.RELEASE.pom
+2020-06-05 15:39:39,443 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-redis/2.3.0.RELEASE/spring-boot-starter-data-redis-2.3.0.RELEASE.pom
+2020-06-05 15:39:39,703 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-redis/2.3.0.RELEASE/spring-data-redis-2.3.0.RELEASE.pom
+2020-06-05 15:39:39,967 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-redis/2.3.0.RELEASE/spring-data-redis-2.3.0.RELEASE.pom
+2020-06-05 15:39:40,225 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-keyvalue/2.3.0.RELEASE/spring-data-keyvalue-2.3.0.RELEASE.pom
+2020-06-05 15:39:40,483 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-keyvalue/2.3.0.RELEASE/spring-data-keyvalue-2.3.0.RELEASE.pom
+2020-06-05 15:39:40,741 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-oxm/5.2.6.RELEASE/spring-oxm-5.2.6.RELEASE.pom
+2020-06-05 15:39:40,995 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-oxm/5.2.6.RELEASE/spring-oxm-5.2.6.RELEASE.pom
+2020-06-05 15:39:41,251 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context-support/5.2.6.RELEASE/spring-context-support-5.2.6.RELEASE.pom
+2020-06-05 15:39:41,508 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context-support/5.2.6.RELEASE/spring-context-support-5.2.6.RELEASE.pom
+2020-06-05 15:39:41,764 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/lettuce/lettuce-core/5.3.0.RELEASE/lettuce-core-5.3.0.RELEASE.pom
+2020-06-05 15:39:42,021 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/lettuce/lettuce-core/5.3.0.RELEASE/lettuce-core-5.3.0.RELEASE.pom
+2020-06-05 15:39:42,277 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.49.Final/netty-common-4.1.49.Final.pom
+2020-06-05 15:39:42,534 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.49.Final/netty-common-4.1.49.Final.pom
+2020-06-05 15:39:42,790 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-parent/4.1.49.Final/netty-parent-4.1.49.Final.pom
+2020-06-05 15:39:43,304 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-parent/4.1.49.Final/netty-parent-4.1.49.Final.pom
+2020-06-05 15:39:43,565 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.49.Final/netty-handler-4.1.49.Final.pom
+2020-06-05 15:39:43,884 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.49.Final/netty-handler-4.1.49.Final.pom
+2020-06-05 15:39:44,141 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.49.Final/netty-resolver-4.1.49.Final.pom
+2020-06-05 15:39:44,403 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.49.Final/netty-resolver-4.1.49.Final.pom
+2020-06-05 15:39:44,659 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.49.Final/netty-buffer-4.1.49.Final.pom
+2020-06-05 15:39:45,108 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.49.Final/netty-buffer-4.1.49.Final.pom
+2020-06-05 15:39:45,365 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.49.Final/netty-transport-4.1.49.Final.pom
+2020-06-05 15:39:45,618 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.49.Final/netty-transport-4.1.49.Final.pom
+2020-06-05 15:39:45,875 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.49.Final/netty-codec-4.1.49.Final.pom
+2020-06-05 15:39:46,133 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.49.Final/netty-codec-4.1.49.Final.pom
+2020-06-05 15:39:46,392 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/reactor-core/3.3.5.RELEASE/reactor-core-3.3.5.RELEASE.pom
+2020-06-05 15:39:46,647 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/reactor-core/3.3.5.RELEASE/reactor-core-3.3.5.RELEASE.pom
+2020-06-05 15:39:47,053 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-redis/2.3.0.RELEASE/spring-boot-starter-data-redis-2.3.0.RELEASE.jar
+2020-06-05 15:39:47,310 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-redis/2.3.0.RELEASE/spring-boot-starter-data-redis-2.3.0.RELEASE.jar
+2020-06-05 15:39:47,569 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-redis/2.3.0.RELEASE/spring-data-redis-2.3.0.RELEASE.jar
+2020-06-05 15:39:49,380 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-redis/2.3.0.RELEASE/spring-data-redis-2.3.0.RELEASE.jar
+2020-06-05 15:39:49,633 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-keyvalue/2.3.0.RELEASE/spring-data-keyvalue-2.3.0.RELEASE.jar
+2020-06-05 15:39:49,896 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-keyvalue/2.3.0.RELEASE/spring-data-keyvalue-2.3.0.RELEASE.jar
+2020-06-05 15:39:50,148 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-oxm/5.2.6.RELEASE/spring-oxm-5.2.6.RELEASE.jar
+2020-06-05 15:39:50,407 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-oxm/5.2.6.RELEASE/spring-oxm-5.2.6.RELEASE.jar
+2020-06-05 15:39:50,698 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context-support/5.2.6.RELEASE/spring-context-support-5.2.6.RELEASE.jar
+2020-06-05 15:39:50,965 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context-support/5.2.6.RELEASE/spring-context-support-5.2.6.RELEASE.jar
+2020-06-05 15:39:51,225 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/lettuce/lettuce-core/5.3.0.RELEASE/lettuce-core-5.3.0.RELEASE.jar
+2020-06-05 15:39:52,027 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/lettuce/lettuce-core/5.3.0.RELEASE/lettuce-core-5.3.0.RELEASE.jar
+2020-06-05 15:39:52,283 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.49.Final/netty-common-4.1.49.Final.jar
+2020-06-05 15:39:52,564 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.49.Final/netty-common-4.1.49.Final.jar
+2020-06-05 15:39:52,820 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.49.Final/netty-handler-4.1.49.Final.jar
+2020-06-05 15:39:53,105 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.49.Final/netty-handler-4.1.49.Final.jar
+2020-06-05 15:39:53,357 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.49.Final/netty-resolver-4.1.49.Final.jar
+2020-06-05 15:39:53,619 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.49.Final/netty-resolver-4.1.49.Final.jar
+2020-06-05 15:39:53,876 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.49.Final/netty-buffer-4.1.49.Final.jar
+2020-06-05 15:39:54,149 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.49.Final/netty-buffer-4.1.49.Final.jar
+2020-06-05 15:39:54,402 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.49.Final/netty-codec-4.1.49.Final.jar
+2020-06-05 15:39:54,675 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.49.Final/netty-codec-4.1.49.Final.jar
+2020-06-05 15:39:54,932 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.49.Final/netty-transport-4.1.49.Final.jar
+2020-06-05 15:39:55,216 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.49.Final/netty-transport-4.1.49.Final.jar
+2020-06-05 15:39:55,475 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/reactor-core/3.3.5.RELEASE/reactor-core-3.3.5.RELEASE.jar
+2020-06-05 15:39:59,539 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/reactor-core/3.3.5.RELEASE/reactor-core-3.3.5.RELEASE.jar
+2020-06-05 15:40:00,169 [Worker-21: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /12-Product-Cart-Service/src/main/java
+2020-06-05 15:40:00,169 [Worker-21: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /12-Product-Cart-Service/src/main/resources
+2020-06-05 15:40:00,179 [Worker-21: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /12-Product-Cart-Service/src/main/resources
+2020-06-05 15:40:00,192 [Worker-21: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /12-Product-Cart-Service/src/test/java
+2020-06-05 15:40:00,491 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 23 sec
+2020-06-05 15:40:00,493 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-06-05 15:40:00,780 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cts:12-Product-Cart-Service:1 @ /Users/praveen/Training/Cognizant/AIG-Microservices/Spring-boot-ws/12-Product-Cart-Service/pom.xml.
+2020-06-05 15:40:01,197 [Worker-21: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /12-Product-Cart-Service/src/main/java
+2020-06-05 15:40:01,197 [Worker-21: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /12-Product-Cart-Service/src/main/resources
+2020-06-05 15:40:01,199 [Worker-21: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /12-Product-Cart-Service/src/main/resources
+2020-06-05 15:40:01,203 [Worker-21: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /12-Product-Cart-Service/src/test/java
+2020-06-05 15:40:01,445 [Worker-21: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-06-05 15:40:01,976 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-05 15:40:01,976 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-05 15:40:01,976 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-05 15:40:01,978 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-05 15:40:01,978 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/praveen/Training/Cognizant/AIG-Microservices/Spring-boot-ws/12-Product-Cart-Service/src/test/resources
+2020-06-05 15:40:02,314 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-redis/2.3.0.RELEASE/spring-boot-starter-data-redis-2.3.0.RELEASE-sources.jar
+2020-06-05 15:40:02,574 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-redis/2.3.0.RELEASE/spring-boot-starter-data-redis-2.3.0.RELEASE-sources.jar
+2020-06-05 15:40:02,586 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-data-redis:2.3.0.RELEASE
+2020-06-05 15:40:03,624 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-redis/2.3.0.RELEASE/spring-data-redis-2.3.0.RELEASE-sources.jar
+2020-06-05 15:40:05,680 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-redis/2.3.0.RELEASE/spring-data-redis-2.3.0.RELEASE-sources.jar
+2020-06-05 15:40:05,694 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-redis:2.3.0.RELEASE
+2020-06-05 15:40:06,735 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-keyvalue/2.3.0.RELEASE/spring-data-keyvalue-2.3.0.RELEASE-sources.jar
+2020-06-05 15:40:07,622 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-keyvalue/2.3.0.RELEASE/spring-data-keyvalue-2.3.0.RELEASE-sources.jar
+2020-06-05 15:40:07,636 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-keyvalue:2.3.0.RELEASE
+2020-06-05 15:40:08,680 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-oxm/5.2.6.RELEASE/spring-oxm-5.2.6.RELEASE-sources.jar
+2020-06-05 15:40:09,465 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-oxm/5.2.6.RELEASE/spring-oxm-5.2.6.RELEASE-sources.jar
+2020-06-05 15:40:09,477 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-oxm:5.2.6.RELEASE
+2020-06-05 15:40:10,626 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context-support/5.2.6.RELEASE/spring-context-support-5.2.6.RELEASE-sources.jar
+2020-06-05 15:40:11,824 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context-support/5.2.6.RELEASE/spring-context-support-5.2.6.RELEASE-sources.jar
+2020-06-05 15:40:11,836 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context-support:5.2.6.RELEASE
+2020-06-05 15:40:12,905 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/lettuce/lettuce-core/5.3.0.RELEASE/lettuce-core-5.3.0.RELEASE-sources.jar
+2020-06-05 15:40:14,950 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/lettuce/lettuce-core/5.3.0.RELEASE/lettuce-core-5.3.0.RELEASE-sources.jar
+2020-06-05 15:40:15,010 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.lettuce:lettuce-core:5.3.0.RELEASE
+2020-06-05 15:40:16,058 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.49.Final/netty-common-4.1.49.Final-sources.jar
+2020-06-05 15:40:17,866 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.49.Final/netty-common-4.1.49.Final-sources.jar
+2020-06-05 15:40:17,902 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-common:4.1.49.Final
+2020-06-05 15:40:18,958 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.49.Final/netty-handler-4.1.49.Final-sources.jar
+2020-06-05 15:40:20,363 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.49.Final/netty-handler-4.1.49.Final-sources.jar
+2020-06-05 15:40:20,373 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-handler:4.1.49.Final
+2020-06-05 15:40:21,388 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.49.Final/netty-resolver-4.1.49.Final-sources.jar
+2020-06-05 15:40:21,903 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.49.Final/netty-resolver-4.1.49.Final-sources.jar
+2020-06-05 15:40:21,912 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-resolver:4.1.49.Final
+2020-06-05 15:40:22,960 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.49.Final/netty-buffer-4.1.49.Final-sources.jar
+2020-06-05 15:40:24,140 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.49.Final/netty-buffer-4.1.49.Final-sources.jar
+2020-06-05 15:40:24,152 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-buffer:4.1.49.Final
+2020-06-05 15:40:25,179 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.49.Final/netty-codec-4.1.49.Final-sources.jar
+2020-06-05 15:40:26,738 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.49.Final/netty-codec-4.1.49.Final-sources.jar
+2020-06-05 15:40:26,747 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec:4.1.49.Final
+2020-06-05 15:40:27,771 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.49.Final/netty-transport-4.1.49.Final-sources.jar
+2020-06-05 15:40:29,262 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.49.Final/netty-transport-4.1.49.Final-sources.jar
+2020-06-05 15:40:29,272 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport:4.1.49.Final
+2020-06-05 15:40:30,296 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/reactor-core/3.3.5.RELEASE/reactor-core-3.3.5.RELEASE-sources.jar
+2020-06-05 15:40:32,781 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/reactor-core/3.3.5.RELEASE/reactor-core-3.3.5.RELEASE-sources.jar
+2020-06-05 15:40:32,795 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.projectreactor:reactor-core:3.3.5.RELEASE
+2020-06-05 15:40:32,798 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-data-redis:2.3.0.RELEASE
+2020-06-05 15:40:32,800 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-redis:2.3.0.RELEASE
+2020-06-05 15:40:32,802 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-keyvalue:2.3.0.RELEASE
+2020-06-05 15:40:32,805 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-oxm:5.2.6.RELEASE
+2020-06-05 15:40:32,806 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context-support:5.2.6.RELEASE
+2020-06-05 15:40:32,808 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.lettuce:lettuce-core:5.3.0.RELEASE
+2020-06-05 15:40:32,810 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-common:4.1.49.Final
+2020-06-05 15:40:32,812 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-handler:4.1.49.Final
+2020-06-05 15:40:32,814 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-resolver:4.1.49.Final
+2020-06-05 15:40:32,815 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-buffer:4.1.49.Final
+2020-06-05 15:40:32,817 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec:4.1.49.Final
+2020-06-05 15:40:32,819 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport:4.1.49.Final
+2020-06-05 15:40:32,821 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.projectreactor:reactor-core:3.3.5.RELEASE
+2020-06-05 15:40:32,823 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-data-redis:2.3.0.RELEASE
+2020-06-05 15:40:32,824 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-redis:2.3.0.RELEASE
+2020-06-05 15:40:32,826 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-keyvalue:2.3.0.RELEASE
+2020-06-05 15:40:32,829 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-oxm:5.2.6.RELEASE
+2020-06-05 15:40:32,832 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context-support:5.2.6.RELEASE
+2020-06-05 15:40:32,835 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.lettuce:lettuce-core:5.3.0.RELEASE
+2020-06-05 15:40:32,838 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-common:4.1.49.Final
+2020-06-05 15:40:32,840 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-handler:4.1.49.Final
+2020-06-05 15:40:32,842 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-resolver:4.1.49.Final
+2020-06-05 15:40:32,845 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-buffer:4.1.49.Final
+2020-06-05 15:40:32,847 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec:4.1.49.Final
+2020-06-05 15:40:32,850 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport:4.1.49.Final
+2020-06-05 15:40:32,852 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.projectreactor:reactor-core:3.3.5.RELEASE
+2020-06-05 15:40:32,855 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-data-redis:2.3.0.RELEASE
+2020-06-05 15:40:32,857 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-redis:2.3.0.RELEASE
+2020-06-05 15:40:32,859 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-keyvalue:2.3.0.RELEASE
+2020-06-05 15:40:32,861 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-oxm:5.2.6.RELEASE
+2020-06-05 15:40:32,864 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context-support:5.2.6.RELEASE
+2020-06-05 15:40:32,866 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.lettuce:lettuce-core:5.3.0.RELEASE
+2020-06-05 15:40:32,869 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-common:4.1.49.Final
+2020-06-05 15:40:32,871 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-handler:4.1.49.Final
+2020-06-05 15:40:32,872 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-resolver:4.1.49.Final
+2020-06-05 15:40:32,874 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-buffer:4.1.49.Final
+2020-06-05 15:40:32,875 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec:4.1.49.Final
+2020-06-05 15:40:32,878 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport:4.1.49.Final
+2020-06-05 15:40:32,879 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.projectreactor:reactor-core:3.3.5.RELEASE
+2020-06-05 15:40:33,084 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-05 15:40:33,084 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-05 15:40:33,084 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-05 15:40:33,085 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-05 15:40:33,085 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/praveen/Training/Cognizant/AIG-Microservices/Spring-boot-ws/12-Product-Cart-Service/src/test/resources
+2020-06-05 15:46:56,112 [Worker-23: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cts:13-Order-Service:1 @ /Users/praveen/Training/Cognizant/AIG-Microservices/Spring-boot-ws/13-Order-Service/pom.xml.
+2020-06-05 15:46:56,560 [Worker-23: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /13-Order-Service/src/main/java
+2020-06-05 15:46:56,560 [Worker-23: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /13-Order-Service/src/main/resources
+2020-06-05 15:46:56,564 [Worker-23: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /13-Order-Service/src/main/resources
+2020-06-05 15:46:56,571 [Worker-23: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /13-Order-Service/src/test/java
+2020-06-05 15:46:56,846 [Worker-23: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2020-06-05 15:46:56,853 [Worker-23: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-06-05 15:46:57,042 [Worker-23: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cts:13-Order-Service:1 @ /Users/praveen/Training/Cognizant/AIG-Microservices/Spring-boot-ws/13-Order-Service/pom.xml.
+2020-06-05 15:46:57,285 [Worker-23: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /13-Order-Service/src/main/java
+2020-06-05 15:46:57,285 [Worker-23: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /13-Order-Service/src/main/resources
+2020-06-05 15:46:57,287 [Worker-23: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /13-Order-Service/src/main/resources
+2020-06-05 15:46:57,306 [Worker-23: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /13-Order-Service/src/test/java
+2020-06-05 15:46:57,477 [Worker-23: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-06-05 15:46:58,220 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-05 15:46:58,220 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-05 15:46:58,221 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-05 15:46:58,222 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-05 15:46:58,222 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/praveen/Training/Cognizant/AIG-Microservices/Spring-boot-ws/13-Order-Service/src/test/resources
+2020-06-05 15:47:59,714 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-05 15:47:59,715 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-05 15:47:59,716 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-05 15:47:59,718 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-05 15:47:59,718 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/praveen/Training/Cognizant/AIG-Microservices/Spring-boot-ws/11-Product-Catalogue-Service/src/test/resources
+2020-06-05 15:50:10,361 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-05 15:50:10,362 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-05 15:50:10,363 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-05 15:50:10,369 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-05 15:50:10,369 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/praveen/Training/Cognizant/AIG-Microservices/Spring-boot-ws/12-Product-Cart-Service/src/test/resources
+2020-06-05 15:50:28,984 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-05 15:50:28,987 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-05 15:50:28,988 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-05 15:50:28,992 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-05 15:50:28,992 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/praveen/Training/Cognizant/AIG-Microservices/Spring-boot-ws/12-Product-Cart-Service/src/test/resources
+2020-06-05 15:51:09,252 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-05 15:51:09,252 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-05 15:51:09,253 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-05 15:51:09,257 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-05 15:51:09,257 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/praveen/Training/Cognizant/AIG-Microservices/Spring-boot-ws/11-Product-Catalogue-Service/src/test/resources
+2020-06-05 15:52:03,682 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-05 15:52:03,684 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-05 15:52:03,686 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-05 15:52:03,688 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-05 15:52:03,688 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/praveen/Training/Cognizant/AIG-Microservices/Spring-boot-ws/13-Order-Service/src/test/resources
+2020-06-05 15:52:25,250 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-05 15:52:25,250 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-05 15:52:25,251 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-05 15:52:25,252 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-05 15:52:25,253 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/praveen/Training/Cognizant/AIG-Microservices/Spring-boot-ws/13-Order-Service/src/test/resources
+2020-06-05 15:59:21,737 [Worker-38: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cts:12-Product-Cart-Service:1 @ /Users/praveen/Training/Cognizant/AIG-Microservices/Spring-boot-ws/12-Product-Cart-Service/pom.xml.
+2020-06-05 15:59:23,303 [Worker-38: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/redis/clients/jedis/3.3.0/jedis-3.3.0.pom
+2020-06-05 15:59:23,603 [Worker-38: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/redis/clients/jedis/3.3.0/jedis-3.3.0.pom
+2020-06-05 15:59:23,858 [Worker-38: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-pool2/2.8.0/commons-pool2-2.8.0.pom
+2020-06-05 15:59:24,139 [Worker-38: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-pool2/2.8.0/commons-pool2-2.8.0.pom
+2020-06-05 15:59:24,472 [Worker-38: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/redis/clients/jedis/3.3.0/jedis-3.3.0.jar
+2020-06-05 15:59:26,024 [Worker-38: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/redis/clients/jedis/3.3.0/jedis-3.3.0.jar
+2020-06-05 15:59:26,272 [Worker-38: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-pool2/2.8.0/commons-pool2-2.8.0.jar
+2020-06-05 15:59:26,556 [Worker-38: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-pool2/2.8.0/commons-pool2-2.8.0.jar
+2020-06-05 15:59:26,691 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-05 15:59:26,692 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-05 15:59:26,692 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-05 15:59:26,693 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-05 15:59:26,693 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/praveen/Training/Cognizant/AIG-Microservices/Spring-boot-ws/12-Product-Cart-Service/src/test/resources
+2020-06-05 15:59:27,945 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-05 15:59:27,946 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-05 15:59:27,948 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-05 15:59:27,950 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-05 15:59:27,950 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/praveen/Training/Cognizant/AIG-Microservices/Spring-boot-ws/12-Product-Cart-Service/src/test/resources
+2020-06-05 15:59:28,924 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/redis/clients/jedis/3.3.0/jedis-3.3.0-sources.jar
+2020-06-05 15:59:30,193 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/redis/clients/jedis/3.3.0/jedis-3.3.0-sources.jar
+2020-06-05 15:59:30,205 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for redis.clients:jedis:3.3.0
+2020-06-05 15:59:31,225 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-pool2/2.8.0/commons-pool2-2.8.0-sources.jar
+2020-06-05 15:59:32,320 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-pool2/2.8.0/commons-pool2-2.8.0-sources.jar
+2020-06-05 15:59:32,331 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-pool2:2.8.0
+2020-06-05 15:59:32,529 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-05 15:59:32,529 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-05 15:59:32,529 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-05 15:59:32,531 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-05 15:59:32,531 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/praveen/Training/Cognizant/AIG-Microservices/Spring-boot-ws/12-Product-Cart-Service/src/test/resources
